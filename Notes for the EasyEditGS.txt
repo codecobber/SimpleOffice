@@ -1,0 +1,18 @@
+Notes for the EasyEditGS
+=========================
+
+Once the theme is installed correctly, open the file 'header.inc.php'.
+Next change the username (located in line 62) to your own user name.  
+
+This will ensure only you can edit the home page.
+
+When you next login and visit the home page, you will be able to update 
+specific elements highlighted by a blue background.
+
+Simply click the relevant pencil icon to activate the edit function.
+Once clicked, you will see a red dotted border appear around the element.
+This provides an indicator that you can now proceed with editing your text.
+
+To save the edit, simply reclick the pencil icon.
+
+The results of your edit will automatically be saved to the components xml file.
